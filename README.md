@@ -26,7 +26,7 @@ https://github.com/cxavier6/sprint-api.git
 Acessar a pasta da aplicação
 
 ```
-cd 
+cd sprint-api
 ```
 Instalar as dependências necessárias
 
@@ -34,7 +34,7 @@ Instalar as dependências necessárias
 npm install
 ```
 
-## Depedências
+## Dependências
 A depedência necessária instalada para este projeto foi a Express, que deve ser visualizada no arquivo package.json.
  
  ```javascript
