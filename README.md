@@ -59,6 +59,14 @@ A depedência necessária instalada para este projeto foi a Express, que deve se
  npm install --save-dev nodemon
  ```
  
+ ## Iniciar a aplicação
+ 
+ Para iniciar a aplicação através do terminal, utilize o comando abaixo:
+ 
+ ```
+ npm start
+ ```
+ 
  ## Rotas
  
  Duas rotas estão presentes na aplicação, a rota <strong>'/create'</strong> e a rota <strong>'/tips'</strong>. A URL base fornecida é `http://localhost:port`, na qual port é o número da porta fornecida na constante port, que por base nesta aplicação é 3400, ou seja, a URL base é `http://localhost:3400`
